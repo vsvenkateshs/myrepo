@@ -1,0 +1,8 @@
+1.  Make a github account 
+2.  make a empty repo
+3. 
+    git config --global user.name "vsvenkateshs"
+    git config --global user.name "vsvenkatesh1590@gmail.com"
+4. git push -u origin master
+ 4.1 username -->
+ 4.2 password -->
